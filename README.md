@@ -43,8 +43,8 @@ Use the elbow method on the PCA data to find the best value for k using the foll
 * Create a dictionary with the data to plot the Elbow curve.
 * Plot a line chart with all the inertia values computed with the different values of k to visually identify the optimal value for k.
 * Answer the following question in your notebook:
-* What is the best value for k when using the PCA data?
- * Does it differ from the best k value found using the original data?
+  * What is the best value for k when using the PCA data?
+  * Does it differ from the best k value found using the original data?
 
 **Cluster Cryptocurrencies with K-means Using the PCA Data**
 Use the following steps to cluster the cryptocurrencies for the best value for k on the PCA data:
